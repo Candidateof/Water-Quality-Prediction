@@ -40,6 +40,6 @@ Performance was acceptable across all parameters
 
 ## Model Link:
 
-https://drive.google.com/file/d/15zDkWu2bwm8MCVaNB1kuKW0BenXs1ujK/view
+https://drive.google.com/file/d/15zDkWu2bwm8MCVaNB1kuKW0BenXs1ujK/view?usp=sharing
 
 ---
