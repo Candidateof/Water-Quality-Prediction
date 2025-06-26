@@ -25,3 +25,12 @@ The model predicts multiple water quality parameters such as:
 * Matplotlib, Seaborn – Data visualization
 
 * Jupyter Notebook – Interactive experimentation
+
+---
+
+## Model Performance
+The model was evaluated using:
+
+- R² Score
+- Mean Squared Error (MSE)
+Performance was acceptable across all parameters
