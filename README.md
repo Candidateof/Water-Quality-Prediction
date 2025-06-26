@@ -50,3 +50,5 @@ https://drive.google.com/file/d/15zDkWu2bwm8MCVaNB1kuKW0BenXs1ujK/view?usp=shari
 - Sponsor: Shell
 - Duration: June 2025 (1 month)
 - Focus Area: Machine Learning in Environmental Monitoring
+
+---
