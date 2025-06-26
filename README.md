@@ -13,4 +13,12 @@ The model predicts multiple water quality parameters such as:
 -O2, NO3, NO2, SO4, PO4 and
 
 -CL
+---
+## Technologies Used
+* Pandas, NumPy – Data handling
 
+* Scikit-learn – Machine learning model and evaluation
+
+* Matplotlib, Seaborn – Data visualization
+
+* Jupyter Notebook – Interactive experimentation
